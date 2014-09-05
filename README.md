@@ -5,9 +5,9 @@ In this class, students will learn the fundamental syntax of the Python programm
 
 ======
 
-Below, please find the chronological order of the lesson plans and the practice problems that go along with each subject:
+Below, please find the chronological order of the lesson plans and the practice problems that go along with each subject (from easiest to hardest):
 
 1. Intro to Turtle - Intro to Turtle Problems
-2. Intro to Loops - Turtle - Lists-Problems, Lists2-Problems, Counting Methods, Counting Vowels
+2. Intro to Loops - Turtle -Counting Methods, Lists-Problems, Lists2-Problems, Counting Vowels
 3. Intro to Branching - Branching Problems, Primes
 4. Intro to Splitting - Splitting Problems, Pig Latin Translator
