@@ -2,7 +2,7 @@
 
 In this lesson, students will use the `turtle` module to familiarize themselves with the basic syntax of Python. Students who have had some experience with programming will pick up the content of this lesson very fast, so it is advisable to have them work on the [advanced problems](#advanced-topics).
 
-![first day](http://pythonroom.com/img/screen1.png)
+![first day](http://pythonroom.com/assets/img/student.png)
 
 ## Prior Knowledge
 
